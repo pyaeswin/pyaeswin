@@ -7,7 +7,7 @@ I love to contribute to open source projects. I also write about software engine
 - 🔭 I’m currently working on backend development projects.
 - 🌱 I’m currently learning web security and hacking.
 - 👯 I’m willing to collaborate on building communitites, and research projects.
-- 📫 How to reach me: pyaesonewin9395@gmail.com@gmail.com
+- 📫 How to reach me: pyaesonewin9395@gmail.com
 - 😄 Pronouns: He/Him.
 
 <br>
